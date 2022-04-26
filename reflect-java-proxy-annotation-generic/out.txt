@@ -1,0 +1,110 @@
+Queue is empty: true
+Size of queue: 0
+
+[]
+
+Queue is empty: false
+Size of queue: 1
+
+[Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+]
+
+Queue is empty: false
+Size of queue: 2
+
+[Name: Second Task
+Body: Try adding one more Task to Queue
+Priority: 4
+, Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+]
+
+Queue is empty: false
+Size of queue: 3
+
+[Name: Second Task
+Body: Try adding one more Task to Queue
+Priority: 4
+, Name: Third task
+Body: Text
+Priority: 3
+, Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+]
+
+Queue is empty: false
+Size of queue: 4
+
+[Name: Second Task
+Body: Try adding one more Task to Queue
+Priority: 4
+, Name: Third task
+Body: Text
+Priority: 3
+, Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+, Name: Fourth task
+Body: Text
+Priority: 1
+]
+
+Queue is empty: false
+Size of queue: 4
+
+[Name: Second Task
+Body: Try adding one more Task to Queue
+Priority: 4
+, Name: Third task
+Body: Text
+Priority: 3
+, Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+, Name: Fourth task
+Body: Text
+Priority: 1
+]
+
+Queue is empty: false
+Size of queue: 3
+
+[Name: Third task
+Body: Text
+Priority: 3
+, Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+, Name: Fourth task
+Body: Text
+Priority: 1
+]
+
+Queue is empty: false
+Size of queue: 2
+
+[Name: First Task
+Body: Try adding Task to Queue
+Priority: 2
+, Name: Fourth task
+Body: Text
+Priority: 1
+]
+
+Queue is empty: false
+Size of queue: 1
+
+[Name: Fourth task
+Body: Text
+Priority: 1
+]
+
+Queue is empty: true
+Size of queue: 0
+
+[]
+
